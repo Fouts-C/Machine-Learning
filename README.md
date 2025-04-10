@@ -1,6 +1,6 @@
 # STEM-MachineLearning
 
-S-STEM Project #4: A project to explore machine learning with the S-STEM group.
+STEM Group Project #4 created with fellow ECRS High-Achievers Scholars Carson Fouts, Eli Orians, Aaron White, and CJ Williams: 
 
 -> Mushroom Classification
 -> Image Mushroom Classification
